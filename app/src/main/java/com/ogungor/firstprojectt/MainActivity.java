@@ -22,6 +22,8 @@ public class MainActivity extends AppCompatActivity {
         mimageList.add(R.drawable.cr71);
         mimageList.add(R.drawable.cr72);
         mimageList.add(R.drawable.cr73);
+
+        //Commit line by ismailgungor
     }
 
     public Integer getImage(int placeNumber, ArrayList<Integer> imageList) {
